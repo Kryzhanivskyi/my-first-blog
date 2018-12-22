@@ -1,7 +1,7 @@
 *.рус
 *~
-__pycache__/
+__pychache__
 myvenv
 db.sqlite3
 /static
-.DS_Store
+DS_Store
